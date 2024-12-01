@@ -1,1 +1,2 @@
-# sorting_visualizer
+This project sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
+Sorting Visualizer will be displaying the working mechanism of various sorting algorithms like, Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Heap Sort and Merge Sort. The main objective of developing this Visualizer is to make a learner comfortable in learning these techniques quickly and easily.
